@@ -1,4 +1,4 @@
---
+---
 slug: From-‘Besta’-to-‘Bestial’ 
 title: From ‘Besta’ to ‘Bestial’ - Automatic Shift Cars 
 authors: Raquel Batista & healinghive 
@@ -12,7 +12,6 @@ driving help,
 disability aid,
 luxury car features,
 ]
----
 ---
 
 If you know the Portuguese saying, 'passar de bestial a besta', you know it highlights how quickly things can change to the exact opposite. From a portuguese perspective of course, focusing on the things going wrong when previously they were considered great. It's the 'fado' in us. We can't escape it. 
