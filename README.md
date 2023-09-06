@@ -31,3 +31,20 @@ This is the bit that says ‘The Hive - The place where we …’.
 Find the entries `title:` and `tagline`, and edit the content between the quotation marks.
 
 https://github.com/maggie44/hivehealing/blob/main/docusaurus.config.js
+
+## Example content:
+
+```
+---
+slug: example
+title: Example
+authors: [healinghive]
+tags: [tags, go, here]
+---
+
+Blog content to show as preview here.
+
+<!--truncate-->
+
+Rest of the blog content.
+```

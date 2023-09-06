@@ -2,7 +2,7 @@
 slug: example
 title: Example
 authors: [healinghive]
-tags: [facebook, hello, docusaurus]
+tags: [tags, go, here]
 ---
 
 Docusaurus blogging featureocusaurus/plugin-content-blog
@@ -15,4 +15,4 @@ Simply add Markdown files (or folders) to the `blog` directory.
 
 Regular blog authors can be added to `authors.yml`.
 
-The blog post date can be extracted from filenames, such as:
+The blog post date can be extracted from filenames.
