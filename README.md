@@ -32,7 +32,7 @@ Find the entries `title:` and `tagline`, and edit the content between the quotat
 
 https://github.com/maggie44/hivehealing/blob/main/docusaurus.config.js
 
-## Example content:
+## Example content
 
 ```
 ---
