@@ -9,7 +9,7 @@ Docusaurus blogging featureocusaurus/plugin-content-blog
 
 Example of adding an image:
 
-![Example image](./docusaurus-plushie-banner.jpeg)
+![Example image](./woodland.png)
 
 Simply add Markdown files (or folders) to the `blog` directory.
 
