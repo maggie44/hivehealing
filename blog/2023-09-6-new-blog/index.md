@@ -1,7 +1,10 @@
 ---
 slug: From-‘Besta’-to-‘Bestial’ 
 title: From ‘Besta’ to ‘Bestial’ - Automatic Shift Cars 
-authors: Raquel Batista & healinghive 
+authors:
+  - healinghive
+  - name: Raquel Batista
+    title: Guest Contributor
 tags: [Healing, automatic cars, How to, aids, driving help, disability aid, luxury car features]
 ---
 
