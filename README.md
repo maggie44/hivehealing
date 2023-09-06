@@ -18,13 +18,15 @@ These are all here (you can ignore the other files in the folder):
 
 https://github.com/maggie44/hivehealing/tree/main/src/pages
 
-## Descriptions and titles on the front page:
+## Descriptions and titles on the front page
 
 https://github.com/maggie44/hivehealing/blob/main/src/components/HomepageFeatures/index.js
 
 This page looks more complicated, but if sticking to just changing the descriptions and titles then should be fine.
 
-## Front page title and sub-title (the bit that says ‘The Hive - The place where we …’):
+## Front page title and sub-title
+
+This is the bit that says ‘The Hive - The place where we …’.
 
 Find the entries `title:` and `tagline`, and edit the content between the quotation marks.
 
