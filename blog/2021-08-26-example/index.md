@@ -1,11 +1,15 @@
 ---
-slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
+slug: example
+title: Example
+authors: [healinghive]
 tags: [facebook, hello, docusaurus]
 ---
 
-[Docusaurus blogging featureocusaurus/plugin-content-blog
+Docusaurus blogging featureocusaurus/plugin-content-blog
+
+Example of adding an image:
+
+![Example image](./docusaurus-plushie-banner.jpeg)
 
 Simply add Markdown files (or folders) to the `blog` directory.
 
