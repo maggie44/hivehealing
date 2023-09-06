@@ -61,6 +61,7 @@ const config = {
           src: "img/logo.png",
         },
         items: [
+          { to: "/", label: "Home", position: "left" },
           { to: "/about", label: "About", position: "left" },
           { to: "blog", label: "Blog", position: "left" },
           { to: "/services", label: "Services", position: "left" },
