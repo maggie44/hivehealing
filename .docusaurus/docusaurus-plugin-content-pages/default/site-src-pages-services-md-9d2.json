@@ -1,0 +1,8 @@
+{
+  "type": "mdx",
+  "permalink": "/services",
+  "source": "@site/src/pages/services.md",
+  "title": "Services",
+  "description": "...",
+  "frontMatter": {}
+}
