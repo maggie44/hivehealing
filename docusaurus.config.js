@@ -70,6 +70,11 @@ const config = {
             label: "Donate",
             position: "left",
           },
+          {
+            href: "https://discord.com/",
+            label: "Discord",
+            position: "right",
+          },
         ],
       },
       prism: {
