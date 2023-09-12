@@ -1,6 +1,6 @@
 import React from "react";
 import clsx from "clsx";
-import Link from "@docusaurus/Link";
+import TawkMessengerWrapper from "@site/src/components/HomepageFeatures/tawk";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
@@ -47,6 +47,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <TawkMessengerWrapper />
       </main>
     </Layout>
   );
