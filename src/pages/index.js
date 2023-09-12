@@ -15,9 +15,10 @@ function HomepageHeader() {
         <h1
           className="hero__title"
           style={{
-            fontFamily: "Libre Moda",
+            fontFamily: "Cormorant Garamond",
             fontStyle: "italic",
             color: "black",
+            fontSizeAdjust: "0.50",
           }}
         >
           {siteConfig.title}
