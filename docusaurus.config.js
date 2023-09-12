@@ -62,8 +62,8 @@ const config = {
         items: [
           { to: "/", label: "Home", position: "left" },
           { to: "/about", label: "About", position: "left" },
-          { to: "/blog", label: "Blog", position: "left" },
           { to: "/services", label: "Services", position: "left" },
+          { to: "/blog", label: "Blog", position: "left" },
           { to: "/events", label: "Events", position: "left" },
           {
             href: "https://opencollective.com/the-healing-hive",
