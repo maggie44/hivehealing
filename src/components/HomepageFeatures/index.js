@@ -55,7 +55,11 @@ function Feature({ src, title, description }) {
   return (
     <div className={clsx("col col--4")}>
       <div className="text--center">
-        <img src={src} className={styles.featureSvg} alt={title} />
+        <img
+          src={src}
+          className={clsx(styles.featureSvg, styles.roundedImage)}
+          alt={title}
+        />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
