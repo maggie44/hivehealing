@@ -9,7 +9,7 @@ const config = {
   title: 'The Hive',
   tagline:
     'The place where we meet to learn, grow, and create safety all around us. Join us on a never ending learning journey where you determine your own goals and capacity for growth. ',
-  favicon: 'img/favicon.ico',
+  favicon: 'favicon.ico',
 
   // Set the production url of your site here
   url: 'https://maggie44.github.io',
