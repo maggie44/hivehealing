@@ -60,7 +60,7 @@ const config = {
           src: 'img/logo.png'
         },
         items: [
-          { to: '/', label: 'Home', position: 'left' },
+          { to: '/', label: 'Home', position: 'left', exact: true },
           { to: '/about', label: 'About', position: 'left' },
           // { to: "/services", label: "Services", position: "left" },
           // { to: '/blog', label: 'Blog', position: 'left' },
