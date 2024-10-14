@@ -10,7 +10,7 @@ tags:
     Healing works,
     Healing help,
     Simple self-help,
-    Coping strategies,
+    Coping strategies
   ]
 ---
 
@@ -107,4 +107,4 @@ Self-care & Pain Management:
 - Magnesium Malate (couple hours before bed)
 - Foot massages at bedtime (think Chinese medicine & reflexology if you’d like)
 
-I love my knees, and I’m so greatful for all the wonderful things they allow me to do now. I’m so greatful they communicate with me and give me so many warnings before giving out so I can take care of them, and the rest of me like I’m supposed to do. Love your knees (all the joints, and eventually, hopefully, all the things), appreciate what they can do for you, and you’ll start to see more of it too. Sending love and healing as always. <3
+I love my knees, and I’m so greatful for all the wonderful things they allow me to do now. I’m so greatful they communicate with me and give me so many warnings before giving out so I can take care of them, and the rest of me like I’m supposed to do. Love your knees (all the joints, and eventually, hopefully, all the things), appreciate what they can do for you, and you’ll start to see more of it too. Sending love and healing as always.
