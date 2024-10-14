@@ -1,4 +1,4 @@
-![About](/img/about-image.png)
+![About](/img/about-image.webp)
 
 ## Empowering Communities for Resilience and Growth
 

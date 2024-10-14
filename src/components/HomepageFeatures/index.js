@@ -1,11 +1,11 @@
-import React from "react";
-import clsx from "clsx";
-import styles from "./styles.module.css";
+import React from 'react'
+import clsx from 'clsx'
+import styles from './styles.module.css'
 
 const FeatureList = [
   {
-    title: "The Vision",
-    src: require("@site/static/img/1.png").default,
+    title: 'The Vision',
+    src: require('@site/static/img/1.webp').default,
     description: (
       <>
         The Hive is a solution to the lack of care and resources available for
@@ -18,11 +18,11 @@ const FeatureList = [
         lift each other's moral, capacities, and quality of life, thereby
         improving our communities.
       </>
-    ),
+    )
   },
   {
-    title: "Our Mission: Empowering Women and Non-Binary Femmes",
-    src: require("@site/static/img/2.png").default,
+    title: 'Our Mission: Empowering Women and Non-Binary Femmes',
+    src: require('@site/static/img/2.webp').default,
     description: (
       <>
         At The Healing Hive, we believe in the power of women supporting other
@@ -33,11 +33,11 @@ const FeatureList = [
         non-binary individuals, and we are committed to uplifting and empowering
         them through education, resources, and tailored support services.
       </>
-    ),
+    )
   },
   {
-    title: "A Comprehensive Approach to Healing",
-    src: require("@site/static/img/3.png").default,
+    title: 'A Comprehensive Approach to Healing',
+    src: require('@site/static/img/3.webp').default,
     description: (
       <>
         Trauma has far-reaching impacts, often leading to other chronic
@@ -47,13 +47,13 @@ const FeatureList = [
         coaching, workshops, gatherings, and community events, all designed to
         address the unique needs of our beneficiaries.
       </>
-    ),
-  },
-];
+    )
+  }
+]
 
 function Feature({ src, title, description }) {
   return (
-    <div className={clsx("col col--4")}>
+    <div className={clsx('col col--4')}>
       <div className="text--center">
         <img
           src={src}
@@ -66,7 +66,7 @@ function Feature({ src, title, description }) {
         <p>{description}</p>
       </div>
     </div>
-  );
+  )
 }
 
 export default function HomepageFeatures() {
@@ -80,5 +80,5 @@ export default function HomepageFeatures() {
         </div>
       </div>
     </section>
-  );
+  )
 }
