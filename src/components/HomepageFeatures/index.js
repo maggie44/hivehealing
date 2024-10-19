@@ -25,9 +25,9 @@ const FeatureList = [
     src: require('@site/static/img/2.webp').default,
     description: (
       <>
-        At The Healing Hive, we believe in the power of women supporting other
-        women and non-binary individuals. Our community-driven charity is built
-        on the principles of trauma-informed care and peer support, creating a
+        At The Hive, we believe in the power of women supporting other women and
+        non-binary individuals. Our community-driven charity is built on the
+        principles of trauma-informed care and peer support, creating a
         nurturing environment where everyone can thrive. We understand the
         unique experiences and obstacles faced by marginalized women and
         non-binary individuals, and we are committed to uplifting and empowering

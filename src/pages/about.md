@@ -2,11 +2,11 @@
 
 ## Empowering Communities for Resilience and Growth
 
-Welcome to The Healing Hive, a transformative organization dedicated to supporting individuals with chronic conditions such as PTSD, neurodiversities, autoimmune conditions, eating disorders, and general anxiety and depression. With a deep understanding of the pressing need for care and resources, we strive to bridge the gap and create a positive impact in the lives of those affected.
+Welcome to The Hive, a transformative organization dedicated to supporting individuals with chronic conditions such as PTSD, neurodiversities, autoimmune conditions, eating disorders, and general anxiety and depression. With a deep understanding of the pressing need for care and resources, we strive to bridge the gap and create a positive impact in the lives of those affected.
 
 ## Our Mission: Empowering Women and Non-Binary Femmes
 
-At The Healing Hive, we believe in the power of women supporting other women and non-binary individuals. Our community-driven charity is built on the principles of trauma-informed care and peer support, creating a nurturing environment where everyone can thrive. We understand the unique experiences and obstacles faced by marginalized women and non-binary individuals, and we are committed to uplifting and empowering them through education, resources, and tailored support services.
+At The Hive, we believe in the power of women supporting other women and non-binary individuals. Our community-driven charity is built on the principles of trauma-informed care and peer support, creating a nurturing environment where everyone can thrive. We understand the unique experiences and obstacles faced by marginalized women and non-binary individuals, and we are committed to uplifting and empowering them through education, resources, and tailored support services.
 
 ## A Comprehensive Approach to Healing
 
@@ -15,12 +15,12 @@ Trauma has far-reaching impacts, often leading to other chronic conditions and a
 
 ## Raising Awareness of Invisible Disabilities
 
-The Healing Hive is passionate about raising awareness of the often invisible disabilities that impact countless lives. By shedding light on these conditions and their profound effects, we strive to foster understanding and empathy within society. Our ultimate goal is to close the gap in quality of life for those affected, ensuring they receive the support, resources, and opportunities necessary to thrive.
+The Hive is passionate about raising awareness of the often invisible disabilities that impact countless lives. By shedding light on these conditions and their profound effects, we strive to foster understanding and empathy within society. Our ultimate goal is to close the gap in quality of life for those affected, ensuring they receive the support, resources, and opportunities necessary to thrive.
 ​
 
 ## Building Safe Spaces and Strong Communities
 
-Within The Healing Hive, we create safe spaces where individuals can connect, share growth, and build better coping strategies. We firmly believe in the power of community and its ability to enhance moral support, build capacities, and improve overall quality of life. By coming together and supporting one another, we not only uplift individuals but also strengthen our communities as a whole.
+Within The Hive, we create safe spaces where individuals can connect, share growth, and build better coping strategies. We firmly believe in the power of community and its ability to enhance moral support, build capacities, and improve overall quality of life. By coming together and supporting one another, we not only uplift individuals but also strengthen our communities as a whole.
 ​
 
 ## Trauma-Informed Care by Peers
@@ -30,7 +30,7 @@ As a trauma-informed charity, we prioritize providing care and support that is s
 
 ## Join the Healing Journey
 
-At The Healing Hive, we invite you to join us on a journey of transformation, where healing, growth, and resilience are at the core of our collective experience. Together, we can create a world where chronic conditions are understood, supported, and met with compassion. Let's build a society that values inclusivity, empowers individuals, and improves the quality of life for all.
+At The Hive, we invite you to join us on a journey of transformation, where healing, growth, and resilience are at the core of our collective experience. Together, we can create a world where chronic conditions are understood, supported, and met with compassion. Let's build a society that values inclusivity, empowers individuals, and improves the quality of life for all.
 Reach out to us if you believe our services could be helpful, and together, let's plant the seeds of inclusion and nurture collective healing at The Hive.
 
 # The Vision

@@ -3,7 +3,7 @@ slug: From-‘Besta’-to-‘Bestial’
 title: From ‘Besta’ to ‘Bestial’ - Automatic Shift Cars
 authors:
   - Raquel Batista
-  - healinghive
+  - thehive
 tags:
   [
     Healing,

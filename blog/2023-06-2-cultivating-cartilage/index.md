@@ -1,7 +1,7 @@
 ---
 slug: cultivating-cartilage
 title: Cultivating Cartilage
-authors: healinghive
+authors: thehive
 tags:
   [
     Healing,

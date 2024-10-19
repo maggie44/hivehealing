@@ -38,7 +38,7 @@ Find the entries `title:` and `tagline`, and edit the content between the quotat
 ---
 slug: example
 title: Example
-authors: [healinghive]
+authors: [thehive]
 tags: [tags, go, here]
 ---
 

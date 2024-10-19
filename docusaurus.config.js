@@ -13,14 +13,14 @@ const config = {
   favicon: 'favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://maggie44.github.io',
+  url: 'https://healinghivebee.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/hivehealing',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'maggie44', // Usually your GitHub org/user name.
+  organizationName: 'HealingHiveBee', // Usually your GitHub org/user name.
   projectName: 'hivehealing', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -55,7 +55,7 @@ const config = {
     ({
       // Replace with your project's social card
       navbar: {
-        title: 'Hive Healing',
+        title: 'The Hive',
         logo: {
           alt: 'Hive',
           src: 'img/logo.png'
