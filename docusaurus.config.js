@@ -67,7 +67,7 @@ const config = {
           // { to: '/blog', label: 'Blog', position: 'left' },
           // { to: '/events', label: 'Events', position: 'left' },
           {
-            href: 'https://opencollective.com/the-healing-hive',
+            href: 'https://opencollective.com/thehive',
             label: 'Donate',
             position: 'left'
           },
